@@ -1,7 +1,7 @@
 name: "Owen's cool website"
 description: "Lightweight theme"
 
-url: '' 
+url: 'https://owen-gillaspie.github.io' 
 baseurl: ''
 
 markdown: kramdown
