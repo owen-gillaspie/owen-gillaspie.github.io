@@ -1,0 +1,31 @@
+---
+layout: default
+---
+            <h2>About Owen</h2>
+            <p>I'm eating an apple, so I don't have time to write more. I guess I like dogs. I split my time between Corvallis and Newport, but I coded all of this at my uncle's house near Portland.</p>
+                
+            <div id="mapid"></div>
+            
+
+        <script>
+            var mymap = L.map('mapid').setView([44.9392,-123.033], 8);
+            
+            L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>'
+            }).addTo(mymap);
+
+            var corvallis_pin = L.marker([44.5646,-123.262]).addTo(mymap);
+
+            var newport_pin = L.marker([44.636755,-124.053442]).addTo(mymap);
+
+            var beavercreek_pin = L.marker([45.2879,-122.536]).addTo(mymap);
+
+            newport_pin.bindPopup("<b>Mom and Brian's house</b><br>This is where I do stuff and see my friends.");
+
+            corvallis_pin.bindPopup("<b>Dad's house</b><br>This is where I hang out with dad and my friend Kevin, but also play video games.");
+
+            beavercreek_pin.bindPopup("<b>My uncle's house</b><br>Where I wrote all this code.");
+
+        </script>
+</div>
