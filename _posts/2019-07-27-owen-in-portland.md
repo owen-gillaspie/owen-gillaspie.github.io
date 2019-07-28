@@ -23,5 +23,5 @@ Ryan and I just played a bunch of Mario 3 and actually beat it.
 ## Day 6: Saturday 
 My aunt Erinn, Ryan, and I went into downtown Oregon City and visited some very weird shops, things like year-round Christmas and Halloween shops. The manager of the Halloween store described it as "spooky steampunk," which was funny because it wasn't at all steampunk. As expected, Ryan brought us to a record store and took about an hour to find what he wanted. We also went up [the big elevator](https://www.orcity.org/publicworks/municipal-elevator). Ryan and I also beat Super Mario World...it was painful. 
 
-## Day 7: Sunday (tomorrow)
-My dad, Ryan, and I plan to go to a movie called _Once Upon a Time in Hollywood_, and then I'll have to leave.
+## Day 7: Sunday
+My dad, Ryan, and I plan to go to a movie, and then I'll have to leave.
